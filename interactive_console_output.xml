@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.6 on win32)" generated="20220908 13:42:15.810" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Lukasz_Kot\.vscode\extensions\robocorp.robotframework-lsp-1.1.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Set Selenium Speed">
+<arg>0.5</arg>
+<msg timestamp="20220908 13:42:17.234" level="FAIL">No keyword with name 'Set Selenium Speed' found.</msg>
+<status status="FAIL" starttime="20220908 13:42:17.234" endtime="20220908 13:42:17.234"/>
+</kw>
+<kw name="Enter Username Email">
+<arg>testing</arg>
+<arg>testingworld@mail.com</arg>
+<status status="NOT RUN" starttime="20220908 13:42:17.235" endtime="20220908 13:42:17.235"/>
+</kw>
+<kw name="Execute Javascript">
+<arg>window.scrollTo(0,700)</arg>
+<status status="NOT RUN" starttime="20220908 13:42:17.236" endtime="20220908 13:42:17.236"/>
+</kw>
+<kw name="Select From List By Index">
+<arg>name:sex</arg>
+<arg>2</arg>
+<status status="NOT RUN" starttime="20220908 13:42:17.237" endtime="20220908 13:42:17.237"/>
+</kw>
+<kw name="Page Should Contain">
+<arg>Register</arg>
+<status status="NOT RUN" starttime="20220908 13:42:17.237" endtime="20220908 13:42:17.238"/>
+</kw>
+<status status="PASS" starttime="20220908 13:42:15.835" endtime="20220908 13:43:07.451"/>
+</kw>
+<status status="PASS" starttime="20220908 13:42:15.835" endtime="20220908 13:43:07.451"/>
+</test>
+<status status="PASS" starttime="20220908 13:42:15.811" endtime="20220908 13:43:07.452"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

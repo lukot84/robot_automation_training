@@ -1,0 +1,10 @@
+{
+    "Registration":
+    {
+        "username_textbox_name": "fld_username",
+        "email_textbox_name": "fld_email",
+        "password_textbox_name": "fld_password",
+        "submit_input_xpath": "input[@value='Sign up']",
+        "submit_input_css": "input[value='Sign up']"
+    }
+}
