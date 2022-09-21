@@ -1,4 +1,4 @@
 #!/bin/bash
-pip install jsonpath
-pip install robotframework
-pip install robotframework-seleniumlibrary
+/home/ec2-user/.local/bin/pip install jsonpath
+/home/ec2-user/.local/bin/pip install robotframework
+/home/ec2-user/.local/bin/pip install robotframework-seleniumlibrary
